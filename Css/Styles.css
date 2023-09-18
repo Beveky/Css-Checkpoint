@@ -10,7 +10,7 @@
 .First {
   height: 100%;
   width: 100%;
-  background-image: url(Public/Background.png);
+  background-image: url(../Public/Background.png);
   background-size: cover;
   background-position: center;
 }
